@@ -35,7 +35,7 @@ Interested in clean UI/UX, performance optimization, and open-source collaborati
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=arianmakiabadi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 <img src="https://github-readme-stats-hazel-six-78.vercel.app/api/top-langs/?username=arianmakiabadi&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-<img src="https://streak-stats.demolab.com/?user=arianmakiabadi&theme=transparent&hide_border=false&card_width=400&card_height=150&hide_current_streak=true" />
+<img src="https://streak-stats.demolab.com/?user=arianmakiabadi&theme=transparent&hide_border=false&card_width=400&card_height=150&hide_current_streak=false" />
   
 
 </div>
