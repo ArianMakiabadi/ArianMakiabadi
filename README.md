@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Frontend-focused full-stack developer building modern web applications with React, Next.js, and TypeScript. Currently expanding my backend development skills with Node.js while exploring full-stack architecture, APIs, and scalable application design.<br>
+Full-stack developer building modern web applications with React, Next.js, and TypeScript. Currently expanding my backend development skills with Node.js while exploring full-stack architecture, APIs, and scalable application design.<br>
 Interested in clean UI/UX, performance optimization, and open-source collaboration.<br>
 
 
