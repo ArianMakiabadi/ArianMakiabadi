@@ -2,9 +2,7 @@
 
 I started coding because I loved the idea of turning an idea into something real with nothing more than a laptop.
 
-Today I'm studying Information Engineering in Germany while building full-stack applications with React, Next.js, TypeScript, and Node.js.
-
-What excites me most about software isn't the technology itself, it's the ability to solve problems at scale. Whether it's automating a tedious process, building a business tool, or creating a product people use every day, I enjoy turning complexity into simple experiences.
+What excites me most about software isn't the technology itself, it's the ability to solve problems at scale. Whether it's automating a tedious process, building a business tool, or creating a product people use every day.
 
 Currently I'm focused on deepening my backend and software architecture skills and learning how great products are built, launched, and scaled.
 
@@ -35,5 +33,3 @@ When I'm not coding, I'm usually exploring new technologies, studying or thinkin
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arian-makiabadi-720455335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arian.maki@yahoo.com) 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
