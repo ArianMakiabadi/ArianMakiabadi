@@ -24,7 +24,7 @@ When I'm not coding, I'm usually exploring new technologies, studying or thinkin
 <div align="center" >
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=arianmakiabadi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-<img src="https://github-readme-stats-hazel-six-78.vercel.app/api/top-langs/?username=arianmakiabadi&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://github-readme-stats-hazel-six-78.vercel.app/api/top-langs/?username=arianmakiabadi&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=6" />
 <img src="https://github-readme-streak-stats-smoky-delta.vercel.app/?user=arianmakiabadi&theme=transparent&hide_border=false&card_width=400&card_height=150&hide_current_streak=true" />
   
 
